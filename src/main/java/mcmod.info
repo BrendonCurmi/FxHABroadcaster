@@ -1,0 +1,21 @@
+[
+    {
+        "modid": "fxhabroadcaster",
+        "name": "FxHABroadcaster",
+        "description": "Broadcasts when a player catches a hidden ability legendary pokemon",
+        "authorList": ["BrendonCurmi/FusionDev"],
+        "version": "1.0",
+        "mcversion": "1.12.2",
+        "forgeversion": "Forge 14.23.5.2768",
+        "url": "",
+        "sourceUrl": "",
+        "dependencies": [
+            "pixelmon@7.1.1",
+            "spongeapi@7.1.0"
+        ],
+        "requiredMods": [
+            "pixelmon@7.1.1",
+            "spongeapi@7.1.0"
+        ]
+    }
+]
