@@ -13,4 +13,27 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.spongepowered</groupId>
+            <artifactId>spongeapi</artifactId>
+            <version>7.2.0-20191130.150509-32-shaded</version>
+        </dependency>
+        <dependency>
+            <groupId>org.spongepowered</groupId>
+            <artifactId>spongeforge</artifactId>
+            <version>1.12.2-2825-7.1.6-dev-shaded</version>
+        </dependency>
+        <dependency>
+            <groupId>com.pixelmonmod</groupId>
+            <artifactId>pixelmon</artifactId>
+            <version>1.12.2-7.2.2-universal</version>
+        </dependency>
+        <dependency>
+            <groupId>net.minecraftforge</groupId>
+            <artifactId>minecraftforge</artifactId>
+            <version>1.12.2-14.23.5.2768</version>
+        </dependency>
+    </dependencies>
 </project>
